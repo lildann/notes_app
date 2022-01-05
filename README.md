@@ -1,11 +1,10 @@
 # Notes app: Post It
 
+### [View the app on GitHub.io](https://lildann.github.io/notes_app/)
+
 ##### A frontend single-page app to write and store notes, connected to an emoji API, with a custom-built testing framework.
 
 ##### Built during week 7 of Makers Academy in a team of three after learning JavaScript for a week.
-
-### [View the app on GitHub.io](https://lildann.github.io/notes_app/)
-
 
 ## User stories
 
