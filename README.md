@@ -6,9 +6,6 @@
 
 ### [View the app on GitHub.io](https://lildann.github.io/notes_app/)
 
-![Post It App](images/post-it.png)
-
-![Wireframes plan](images/wireframe.png)
 
 ## User stories
 
@@ -33,6 +30,10 @@ I can use shortcodes like `:fire:` that get converted into emojis like 🔥
 So I can record notes with fun little pictures
 ```
 
+![Post It App](images/post-it.png)
+
+![Wireframes plan](images/wireframe.png)
+
 ## Set up
 
 `Node` and `npm` installed.
@@ -47,3 +48,4 @@ To run the code
 ```
 npm install http-server --save-dev
 ```
+
